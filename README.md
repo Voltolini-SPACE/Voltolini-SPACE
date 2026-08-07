@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/foto-perfil.png" alt="Voltolini — fundador da Voltolini SPACE" width="190">
+
 # Voltolini SPACE
 
 **Software local-first e infraestrutura financeira — com prova, não promessa.**
