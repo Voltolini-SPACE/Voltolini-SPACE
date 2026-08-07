@@ -6,7 +6,9 @@
 
 **Fintechs & lifestyle**
 
-*Aprender, ensinar e colaborar com IA. Aqui a IA é parceira de aprendizado, não atalho.*
+<img src="assets/hero-voltolini.svg" alt="voltolini.space: aprender, ensinar e colaborar com ia" width="820">
+
+*Aqui a IA é parceira de aprendizado, não atalho.*
 
 [![Instagram @voltolini](https://img.shields.io/badge/Instagram-%40voltolini-FF7A4D?logo=instagram&logoColor=white)](https://instagram.com/voltolini)
 [![SE7EN PAY](https://img.shields.io/badge/SE7EN%20PAY-se7enpay.com.br-00E9F4?labelColor=03060B)](https://www.se7enpay.com.br)
