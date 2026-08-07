@@ -6,14 +6,14 @@
 
 **Fintechs & lifestyle**
 
-<img src="assets/hero-voltolini-v2.svg" alt="voltolini.space: aprender, ensinar e colaborar com ia" width="820">
+<img src="assets/hero-voltolini-v3.svg" alt="voltolini.space: aprender, ensinar e colaborar com ia" width="820">
 
 *Aqui a IA é parceira de aprendizado, não atalho.*
 
 [![Instagram @voltolini](https://img.shields.io/badge/Instagram-%40voltolini-FF7A4D?logo=instagram&logoColor=white)](https://instagram.com/voltolini)
 [![SE7EN PAY](https://img.shields.io/badge/SE7EN%20PAY-se7enpay.com.br-00E9F4?labelColor=03060B)](https://www.se7enpay.com.br)
 [![NOMOS](https://img.shields.io/badge/NOMOS-agente%20local-5AF78E?labelColor=0A0F0D)](https://github.com/Voltolini-SPACE/NOMOS)
-![voltolini.space](https://img.shields.io/badge/voltolini.space-em%20constru%C3%A7%C3%A3o-3B6FE0)
+![voltolini.space](https://img.shields.io/badge/voltolini.space-coming%20soon-3B6FE0)
 
 </div>
 
