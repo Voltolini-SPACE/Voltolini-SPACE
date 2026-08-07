@@ -1,19 +1,36 @@
 <div align="center">
 
-<img src="assets/foto-perfil.png" alt="Voltolini — fundador da Voltolini SPACE" width="190">
+<img src="assets/foto-perfil.png" alt="Voltolini, fundador da Voltolini SPACE" width="190">
 
-# Voltolini SPACE
+# Voltolini
 
-**Software local-first e infraestrutura financeira — com prova, não promessa.**
+**Fintechs & lifestyle**
 
-*Construímos produtos onde a confiança é verificável: agentes de IA que rodam
-na sua máquina e releases que qualquer pessoa pode auditar.*
+*Aprender, ensinar e colaborar com IA. Aqui a IA é parceira de aprendizado, não atalho.*
+
+[![Instagram @voltolini](https://img.shields.io/badge/Instagram-%40voltolini-FF7A4D?logo=instagram&logoColor=white)](https://instagram.com/voltolini)
+[![SE7EN PAY](https://img.shields.io/badge/SE7EN%20PAY-se7enpay.com.br-00E9F4?labelColor=03060B)](https://www.se7enpay.com.br)
+[![NOMOS](https://img.shields.io/badge/NOMOS-agente%20local-5AF78E?labelColor=0A0F0D)](https://github.com/Voltolini-SPACE/NOMOS)
+![voltolini.space](https://img.shields.io/badge/voltolini.space-em%20constru%C3%A7%C3%A3o-3B6FE0)
 
 </div>
 
----
+## Quem sou
 
-## 🏛 Flagship — NOMOS
+Construo infraestrutura de pagamentos e agentes de IA. Sou pilar no maior
+ecossistema de pagamentos do Brasil, o [@confrapagoficial](https://instagram.com/confrapagoficial).
+No dia a dia toco a [SE7EN PAY](https://www.se7enpay.com.br). 📍 BC, Brasil.
+
+Meu princípio é simples: prova, não promessa. Todo produto que publico
+pode ser verificado por qualquer pessoa.
+
+## Os três pilares
+
+| Aprender | Ensinar | Colaborar |
+|---|---|---|
+| Descubro como a IA funciona, na prática e sem rodeio. | Explico o caminho em manuais claros. | Construo ferramentas que trabalham junto com você. |
+
+## 🏛 Flagship: NOMOS
 
 <div align="center">
 
@@ -23,38 +40,32 @@ na sua máquina e releases que qualquer pessoa pode auditar.*
 
 </div>
 
-**Seu agente. Sua máquina. Suas regras.** — *local por lei.*
+**Seu agente. Sua máquina. Suas regras.** *Local por lei.*
 
-NOMOS é um agente pessoal de IA que roda **100% no seu computador**: cérebro,
-memória, cofre de chaves, skills e agentes governados, com aprovação humana em
-cada passo. A nuvem é uma tomada opcional que você pluga de propósito — nunca
-por padrão.
+NOMOS é um agente pessoal de IA que roda 100% no seu computador. Você
+aprova cada ação sensível. A nuvem é opcional e só liga se você plugar.
 
-- 🔒 **Local por lei** — por padrão, nada sai da sua máquina; a política bloqueia egress até você permitir.
-- ✋ **Pede licença** — toda ação sensível passa pela sua aprovação (níveis de risco A0–A6, fail-closed).
-- 🔗 **Cadeia de suprimentos provada** — builds **bit-a-bit reproduzíveis** em Linux, macOS e Windows, proveniência **SLSA/Sigstore** e **SBOM** amarrado por SHA-256 a cada release.
-- 🧪 **Evidência antes de entrega** — mais de 1.900 testes automatizados; CI verde em 3 sistemas × 4 versões de Python.
+- 🔒 Por padrão, nada sai da sua máquina. A política bloqueia egress até você permitir.
+- ✋ Toda ação sensível pede a sua licença. Níveis de risco A0 a A6, fail-closed.
+- 🔗 Cada release publica hash, proveniência SLSA e SBOM. O mesmo commit gera bytes idênticos em Linux, macOS e Windows.
+- 🧪 Mais de 1.900 testes automatizados. CI verde em 3 sistemas e 4 versões de Python.
 
 <div align="center">
 
-[**➜ Conheça o repositório**](https://github.com/Voltolini-SPACE/NOMOS) · [**🌐 Site**](https://voltolini-space.github.io/NOMOS/) · [**📦 Releases**](https://github.com/Voltolini-SPACE/NOMOS/releases)
+[**➜ Repositório**](https://github.com/Voltolini-SPACE/NOMOS) · [**🌐 Site**](https://voltolini-space.github.io/NOMOS/) · [**📦 Releases**](https://github.com/Voltolini-SPACE/NOMOS/releases)
 
 </div>
 
----
-
-## 🧭 Como trabalhamos
+## Como eu trabalho
 
 | Princípio | Na prática |
 |---|---|
-| 🔏 **Verifique, não confie** | Todo release publica hash, proveniência criptográfica e inventário de dependências — `gh attestation verify` responde em segundos. |
-| 🕶 **Privacidade por padrão** | Zero telemetria, zero rastreio, zero "casa" para ligar. O modo só-local é política, não um botão. |
-| 🧾 **Evidência, não opinião** | Cada mudança nasce com teste e registro; o marketing nunca anuncia mais do que a suíte prova. |
-
----
+| 🔏 Verifique, não confie | Todo release publica hash, proveniência criptográfica e inventário de dependências. `gh attestation verify` responde em segundos. |
+| 🕶 Privacidade por padrão | Zero telemetria. Zero rastreio. O modo só local é política, não um botão. |
+| 🧾 Evidência, não opinião | Cada mudança nasce com teste e registro. O marketing nunca anuncia mais do que a suíte prova. |
 
 <div align="center">
 
-*Seu agente. Sua máquina. Suas regras.*
+*Prova, não promessa.*
 
 </div>
