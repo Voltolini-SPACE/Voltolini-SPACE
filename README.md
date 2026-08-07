@@ -6,7 +6,7 @@
 
 **Fintechs & lifestyle**
 
-<img src="assets/hero-voltolini.svg" alt="voltolini.space: aprender, ensinar e colaborar com ia" width="820">
+<img src="assets/hero-voltolini-v2.svg" alt="voltolini.space: aprender, ensinar e colaborar com ia" width="820">
 
 *Aqui a IA é parceira de aprendizado, não atalho.*
 
