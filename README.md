@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="assets/foto-perfil.png" alt="Voltolini, fundador da Voltolini SPACE" width="190">
+<img src="assets/foto-voltolini.svg" alt="Voltolini, fundador da Voltolini SPACE" width="190">
 
 # Voltolini
 
 **Fintechs & lifestyle**
 
-<img src="assets/hero-voltolini-v3.svg" alt="voltolini.space: aprender, ensinar e colaborar com ia" width="820">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-voltolini-v3-light.svg">
+  <img src="assets/hero-voltolini-v3.svg" alt="voltolini.space: aprender, ensinar e colaborar com ia" width="820">
+</picture>
 
 *Aqui a IA é parceira de aprendizado, não atalho.*
 
@@ -28,9 +31,11 @@ pode ser verificado por qualquer pessoa.
 
 ## Os três pilares
 
-| Aprender | Ensinar | Colaborar |
-|---|---|---|
-| Descubro como a IA funciona, na prática e sem rodeio. | Explico o caminho em manuais claros. | Construo ferramentas que trabalham junto com você. |
+<div align="center">
+
+<img src="assets/pilares.svg" alt="Aprender: descubro como a IA funciona, na prática e sem rodeio. Ensinar: explico o caminho em manuais claros. Colaborar: construo ferramentas que trabalham junto com você." width="900">
+
+</div>
 
 ## 🏛 Flagship: NOMOS
 
@@ -51,6 +56,12 @@ aprova cada ação sensível. A nuvem é opcional e só liga se você plugar.
 - ✋ Toda ação sensível pede a sua licença. Níveis de risco A0 a A6, fail-closed.
 - 🔗 Cada release publica hash, proveniência SLSA e SBOM. O mesmo commit gera bytes idênticos em Linux, macOS e Windows.
 - 🧪 Mais de 1.900 testes automatizados. CI verde em 3 sistemas e 4 versões de Python.
+
+<div align="center">
+
+<img src="assets/prova-terminal.svg" alt="Terminal executando gh attestation verify no NOMOS e terminando em Verification succeeded" width="740">
+
+</div>
 
 <div align="center">
 
