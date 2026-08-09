@@ -54,7 +54,7 @@ aprova cada ação sensível. A nuvem é opcional e só liga se você plugar.
 
 - 🔒 Por padrão, nada sai da sua máquina. A política bloqueia egress até você permitir.
 - ✋ Toda ação sensível pede a sua licença. Níveis de risco A0 a A6, fail-closed.
-- 🔗 Cada release publica hash, proveniência SLSA e SBOM. Dois builds independentes do mesmo commit geram o mesmo sha256 — gate bloqueante no CI.
+- 🔗 Toda release publica hash; as recentes trazem também proveniência SLSA e SBOM. Dois builds independentes do mesmo commit geram o mesmo sha256 — gate bloqueante no CI.
 - 🧪 Mais de 1.900 testes automatizados. CI verde em 3 sistemas e 4 versões de Python.
 
 <div align="center">
@@ -73,7 +73,7 @@ aprova cada ação sensível. A nuvem é opcional e só liga se você plugar.
 
 | Princípio | Na prática |
 |---|---|
-| 🔏 Verifique, não confie | Todo release publica hash, proveniência criptográfica e inventário de dependências. `gh attestation verify` responde em segundos. |
+| 🔏 Verifique, não confie | Toda release publica hash; as recentes trazem proveniência criptográfica e inventário de dependências. `gh attestation verify` responde em segundos. |
 | 🕶 Privacidade por padrão | Zero telemetria. Zero rastreio. O modo só local é política, não um botão. |
 | 🧾 Evidência, não opinião | Cada mudança nasce com teste e registro. O marketing nunca anuncia mais do que a suíte prova. |
 
