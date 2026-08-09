@@ -54,7 +54,7 @@ aprova cada ação sensível. A nuvem é opcional e só liga se você plugar.
 
 - 🔒 Por padrão, nada sai da sua máquina. A política bloqueia egress até você permitir.
 - ✋ Toda ação sensível pede a sua licença. Níveis de risco A0 a A6, fail-closed.
-- 🔗 Cada release publica hash, proveniência SLSA e SBOM. O mesmo commit gera bytes idênticos em Linux, macOS e Windows.
+- 🔗 Cada release publica hash, proveniência SLSA e SBOM. Dois builds independentes do mesmo commit geram o mesmo sha256 — gate bloqueante no CI.
 - 🧪 Mais de 1.900 testes automatizados. CI verde em 3 sistemas e 4 versões de Python.
 
 <div align="center">
