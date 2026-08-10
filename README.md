@@ -56,7 +56,7 @@ aprova cada ação sensível. A nuvem é opcional e só liga se você plugar.
 - ✋ Toda ação sensível pede a sua licença. Níveis de risco A0 a A6, fail-closed.
 - 🔗 Toda release publica hash; as recentes trazem também proveniência SLSA e SBOM. Dois builds independentes do mesmo commit geram o mesmo sha256 — gate bloqueante no CI.
 - 🧭 Orquestração governada: uma missão vira grafo de tarefas e cada passo passa pela mesma escada A0–A6 antes de rodar.
-- 🧪 Mais de 2.000 testes automatizados. CI verde em 3 sistemas e 4 versões de Python.
+- 🧪 Mais de 1.900 funções de teste (2.082 casos executados). CI verde em 3 sistemas e 4 versões de Python.
 
 <div align="center">
 
